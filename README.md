@@ -7,4 +7,4 @@ I also play tennis, and I was on the varsity tennis team when I was in high scho
 
 My favorite food is my borscht, which is a beet soup you typically put sour cream on (Shown below)
 
-![Russian Borscht](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2019%2F10%2Fpunk-rock-borscht-ft-blog1019.jpg&q=85)
+![Russian Borscht](https://raw.githubusercontent.com/ykalytyuk/ykalytyuk.github.io/main/Borsht.png)

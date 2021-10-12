@@ -8,3 +8,6 @@ I also play tennis, and I was on the varsity tennis team when I was in high scho
 My favorite food is my borscht, which is a beet soup you typically put sour cream on (Shown below)
 
 ![Russian Borscht](https://raw.githubusercontent.com/ykalytyuk/ykalytyuk.github.io/main/Borsht.png)
+
+Here is a link to the RIT SE website, for all your software engineering needs!
+[RIT SE website](https://www.rit.edu/computing/department-software-engineering)
